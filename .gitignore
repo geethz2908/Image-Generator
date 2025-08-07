@@ -1,0 +1,24 @@
+# Python virtual environments
+.venv/
+venv/
+image/
+myenv/
+visualaid/
+
+# Compiled Python files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment files
+.env
+
+# Credentials / keys
+service-account-key.json
+
+# Output and uploads (usually generated files)
+static/output/
+uploads/
+
+# VS Code settings (optional)
+.vscode/
